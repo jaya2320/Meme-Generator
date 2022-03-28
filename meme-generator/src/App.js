@@ -1,0 +1,11 @@
+import React from 'react';
+import MemeGenerator from './MemeGenerator';
+import Home from'./Components/Home';
+function App() {
+  return (
+    <div>
+      <Home />
+    </div>
+  );
+}
+export default App;
