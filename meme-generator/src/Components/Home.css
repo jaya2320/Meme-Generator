@@ -4,17 +4,13 @@
     form {
     border:2px solid green;
     padding: 30px;
+    background-color: rgb(240, 255, 255);
+    border-radius: 50px;
     }
-    img{
-    height: 120px;
-    margin-left: 90px;
-    margin-bottom: 10px;
-    display: block;
-    border:1px solid black;
-    border-radius: 50%;
-    }
+
+    
     .App-header {
-    background-color: white;
+        background-color: #282c34;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -22,5 +18,9 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: black;
+    margin-top:-150px;
+    margin-bottom:-150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
     }
     
